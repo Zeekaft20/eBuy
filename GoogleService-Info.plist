@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyCVvGpvEiEr838XJ5ZZwLZOIoa4ktDwe1I</string>
+	<key>GCM_SENDER_ID</key>
+	<string>852157947339</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.pushub.eBuy</string>
+	<key>PROJECT_ID</key>
+	<string>ebuy-88b22</string>
+	<key>STORAGE_BUCKET</key>
+	<string>ebuy-88b22.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:852157947339:ios:036bf14dc5245c52b6aa4e</string>
+</dict>
+</plist>
